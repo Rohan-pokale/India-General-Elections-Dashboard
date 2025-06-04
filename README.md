@@ -7,6 +7,7 @@ This Power BI Dashboard presents a comprehensive, data-driven analysis of the 20
 🧠 Built With: Power BI, DAX, Data Modeling, Visualization, UX Design
 
 **📌 Project Objectives**
+
 📈 To analyze and visualize large-scale election results for better decision-making.
 
 🗺️ To understand the political landscape at national, state, and constituency levels.
@@ -28,7 +29,9 @@ This Power BI Dashboard presents a comprehensive, data-driven analysis of the 20
 5.Lookup and fact tables are optimally designed for performance and clarity
 
 # 🖥️ Dashboard Pages Breakdown
-**📌 1. Landing Page – page1_landing_page.PNG**
+
+**📌 1. Landing Page –** https://github.com/Rohan-pokale/Power-BI-Project2-India_General_Elections_Results/blob/main/page1_landing_page.PNG
+
 A modern and user-friendly homepage guiding users to explore:
 
 1.Overview Analysis
@@ -39,7 +42,8 @@ A modern and user-friendly homepage guiding users to explore:
 
 4.Constituency Drill-down
 
-**📌 2. Overview Analysis – page2_Overview_analysis.PNG**
+**📌 2. Overview Analysis –** https://github.com/Rohan-pokale/Power-BI-Project2-India_General_Elections_Results/blob/main/page2_Overview_analysis.PNG
+
 Displays high-level insights including:
 
 1.Total seats won by NDA, I.N.D.I.A., and Others
@@ -50,8 +54,7 @@ Displays high-level insights including:
 
 4.Parliamentary seat distribution map (543 seats)
 
-**📌 3. State Demographics Analysis – page3_state_demographics_analysis.PNG
-Offers:**
+**📌 3. State Demographics Analysis –**https://github.com/Rohan-pokale/Power-BI-Project2-India_General_Elections_Results/blob/main/page3_state_demographics_analysis.PNG
 
 1.State-wise alliance dominance
 
@@ -59,8 +62,9 @@ Offers:**
 
 3.Choropleth maps to identify NDA vs I.N.D.I.A. strongholds
 
-**📌 4. Political Landscape by State – page4_political_landscap_analysis.PNG
-Interactive state-level deep dive**:
+**📌 4. Political Landscape by State** - https://github.com/Rohan-pokale/Power-BI-Project2-India_General_Elections_Results/blob/main/page4_political_landscap_analysis.PNG
+
+Interactive state-level deep dive:
 
 1.Dynamic selection of any state (e.g., Maharashtra)
 
@@ -68,8 +72,9 @@ Interactive state-level deep dive**:
 
 3.Pie chart with party-wise seat share and total seat count
 
-**📌 5. Constituency-Level Analysis – page5_constituency_analysis.PNG
-Detailed drill-through page for selected constituencies:**
+**📌 5. Constituency-Level Analysis** – https://github.com/Rohan-pokale/Power-BI-Project2-India_General_Elections_Results/blob/main/page5_constituency_analysis.PNG 
+
+Detailed drill-through page for selected constituencies:
 
 1.Total votes, EVM votes, postal votes
 
@@ -77,8 +82,9 @@ Detailed drill-through page for selected constituencies:**
 
 3.Constituency-wise results and participation stats
 
-**📌 6. Results Data Grid – page6_details_grid.PNG
-Tabular data for all constituencies including:**
+**📌 6. Results Data Grid** – https://github.com/Rohan-pokale/Power-BI-Project2-India_General_Elections_Results/blob/main/page6_details_grid.PNG 
+
+Tabular data for all constituencies including:
 
 1.Winning candidate
 
@@ -91,6 +97,7 @@ Tabular data for all constituencies including:**
 5.Margin of victory
 
 **🧩 Key Features**
+
 ✔️ Drill-through Navigation
 
 ✔️ Dynamic Slicers (State/Constituency)
