@@ -108,7 +108,7 @@ Tabular data for all constituencies including:
 
 ✔️ Clean and intuitive UI
 
-✔️ DAX measures for margin %, vote share, etc.
+✔️ DAX measures
 
 # 🙋‍♂️ About Me
 👨‍💻 Rohan Devanand Pokale
