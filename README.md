@@ -143,3 +143,7 @@ The data model uses a star schema with the following key tables:
 ---
 
 📌 _“This dashboard transforms election data into a powerful story of democracy, trends, and regional dynamics.”_
+
+
+
+![Output](page1_landing_page.PNG)
