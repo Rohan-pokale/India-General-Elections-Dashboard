@@ -146,4 +146,4 @@ The data model uses a star schema with the following key tables:
 
 
 
-![Output](page1_landing_page.PNG)
+
